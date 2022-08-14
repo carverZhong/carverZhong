@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carverZhong
+- 👋 Hi, I’m @carver
 - 👀 I’m interested in Android.
 - 🌱 I’m currently learning **Android, OpenGLES, Cpp**.
 
